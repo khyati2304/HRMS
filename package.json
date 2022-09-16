@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://muhammadhoti.github.io/Employee-Management-System-Using-React",
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.3.1",
     "gh-pages": "^1.2.0",
     "mdbreact": "^4.18.1",
     "moment-timezone": "^0.5.21",
